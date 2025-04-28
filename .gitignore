@@ -1,0 +1,9 @@
+.env
+/src/__pycache__
+/src/data_extractors/__pycache__
+/src/database_helpers/__pycache__
+/src/vector_store_helpers/__pycache__
+/src/streamlit_ui/__pycache__
+/src/core/__pycache__
+test.py
+database.zip
